@@ -6,3 +6,5 @@ some scripts with image processing without using built-in functions
 <br>&emsp;&emsp;&emsp;creating watermark(25% opacity) using Lena image and image with text created in Paint
 <br><br>lab3.m - requires hand.jpg
 <br> &emsp;&emsp;&emsp;using low-pass filter, high-pass filter with normalization and substraction from 255 (edging), median filter
+<br><br>lab4.m - requires hand.jpg
+<br> &emsp;&emsp;&emsp;Dilation, erosion, opening, closing on img and img negation
